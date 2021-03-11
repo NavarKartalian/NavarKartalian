@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name is Navar!</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- I've started learning programming about a year ago, since that, i've been studying almost all days to improve my knowledge and skills
+- I've started learning programming about two years ago, since that, i've been studying almost all days to improve my knowledge and skills
 - I’m currently learning **JavaScript, Typescript and React**
 
 <h3 align="left">Languages and Tools:</h3>
