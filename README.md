@@ -9,6 +9,7 @@
 
 <a href="https://passport.rocketseat.com.br/react-js/navar-kartalian-07924" target="_blank"><img src="https://img.shields.io/badge/Ignite-Passport-brightgreen?style=for-the-badge&logo=React" /></a>
 <a href="https://www.linkedin.com/in/navar-kartalian-784637206/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Navar%20Kartalian-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://app.rocketseat.com.br/certificates/adbab422-8997-4847-9f90-3af5ebb37d33" target="_blank"><img src="https://img.shields.io/badge/Ignite-Certificate-brightgreen?style=for-the-badge&logo=react" /></a>
 
 ---- 
 
