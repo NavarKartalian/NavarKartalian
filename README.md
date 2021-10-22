@@ -3,7 +3,7 @@
 
 ---- 
 
-- I've started learning programming about two years ago, since that, i've been studying almost all days to improve my knowledge and skills
+- I've started learning programming about three years ago, since that, i've been studying almost all days to improve my knowledge and skills
 - I have knowledge in **React, Typescript and Next**
 - Learned **React** through <a href="https://www.rocketseat.com.br/ignite">**Rocketseat Ignite**</a>
 
