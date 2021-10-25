@@ -18,7 +18,7 @@
 
 ---- 
 <p align='center'>
-<sapn><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navarkartalian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="navarkartalian" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navarkartalian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="navarkartalian" /></span>
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navarkartalian&show_icons=true&locale=en&theme=tokyonight" alt="navarkartalian" /></span>
 </p>
 
