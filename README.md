@@ -1,14 +1,15 @@
 <h1 align="center">Hi, My name is Navar!</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+
+<h3 align='center'>"Sucking at something is the first step towards being sorta good at something." <img src='https://c.tenor.com/0rK1mUAoy_IAAAAi/jake-the-dog-adventure-time.gif' alt='Jake the dog' width="40"></h3>
 
 ---- 
+
+<a href="https://www.linkedin.com/in/navar-kartalian-784637206/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Navar%20Kartalian-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://app.rocketseat.com.br/certificates/adbab422-8997-4847-9f90-3af5ebb37d33" target="_blank"><img src="https://img.shields.io/badge/Ignite-Certificate-brightgreen?style=for-the-badge&logo=react" /></a>
 
 - I've started learning programming about three years ago, since that, i've been studying almost all days to improve my knowledge and skills
 - I have knowledge in **React, Typescript and Next**
 - Learned **React** through <a href="https://www.rocketseat.com.br/ignite">**Rocketseat Ignite**</a>
-
-<a href="https://www.linkedin.com/in/navar-kartalian-784637206/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Navar%20Kartalian-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://app.rocketseat.com.br/certificates/adbab422-8997-4847-9f90-3af5ebb37d33" target="_blank"><img src="https://img.shields.io/badge/Ignite-Certificate-brightgreen?style=for-the-badge&logo=react" /></a>
 
 ---- 
 
