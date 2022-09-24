@@ -9,7 +9,7 @@
 
 - I have knowledge in **React, Typescript and Next**
 - Learned **React** through <a href="https://www.rocketseat.com.br/ignite">**Rocketseat Ignite**</a>
-- Currently learning about Micro-frontends and 3D in the web (three.js)
+- Currently learning about 3D in the web (three.js) and UE5
 
 ---- 
 
